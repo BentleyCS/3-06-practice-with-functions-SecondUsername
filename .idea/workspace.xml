@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e5a8525-e665-4404-9317-e2cea2fcfc95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/3-06-practice-with-functions-SecondUsername.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSP_3_06_Practice_with_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSP_3_06_Practice_with_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762276638877</updated>
       <workItem from="1762276640121" duration="1087000" />
-      <workItem from="1762455379691" duration="1527000" />
+      <workItem from="1762455379691" duration="2430000" />
     </task>
     <servers />
   </component>
@@ -96,11 +101,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CSP_3_06_Practice_with_functions.py</url>
-          <line>53</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test_CSP_3_06_Practice with functions.py</url>
           <line>3</line>
           <option name="timeStamp" value="4" />
@@ -109,7 +109,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/3_06_practice_with_functions_SecondUsername$.coverage" NAME=" Coverage Results" MODIFIED="1762456815483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/3_06_practice_with_functions_SecondUsername$CSP_3_06_Practice_with_functions.coverage" NAME="CSP_3_06_Practice_with_functions Coverage Results" MODIFIED="1762456808392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_06_practice_with_functions_SecondUsername$.coverage" NAME=" Coverage Results" MODIFIED="1762457009690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_06_practice_with_functions_SecondUsername$CSP_3_06_Practice_with_functions.coverage" NAME="CSP_3_06_Practice_with_functions Coverage Results" MODIFIED="1762457006075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
